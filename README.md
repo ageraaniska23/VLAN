@@ -1,6 +1,6 @@
 # VLAN
 
-![Topologi VLAN](https://github.com/ageraaniska23/VLAN/assets/yourimagehash/image.png)
+![Topologi VLAN](https://github.com/user-attachments/assets/9195a71d-8a1e-4c2c-909a-198a53bd825d)
 
 - dhcp
 - routing dinamis
