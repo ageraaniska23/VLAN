@@ -43,3 +43,28 @@
 | Router 0 | 192.168.40.0 | 255.255.255.0  |
 | Router 1 | 11.11.11.0   | 255.255.255.0  |
 | Router 2 | 10.10.10.0   | 255.255.255.0  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dasdasdasdasdasbdasffdjashkdbasdasdasd
+d
+asdas
+d/as
+dasd
+asd
+asd
+asdas
