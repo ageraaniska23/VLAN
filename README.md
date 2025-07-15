@@ -1,5 +1,5 @@
 
-![Topologi VLAN](https://github.com/user-attachments/assets/9195a71d-8a1e-4c2c-909a-198a53bd825d)
+
 
 # VLAN: Rahasia di Balik Jaringan Modern yang Efisien dan Aman
 
@@ -41,6 +41,7 @@ VLAN bekerja dengan memberi “label” pada data yang lewat, dikenal sebagai VL
 >Think of it like: Access port = jalur khusus. Trunk port = tol besar antar kota.
 
 ## Studi Kasus Mini: Kantor XYZ
+![Topologi VLAN](https://github.com/ageraaniska23/VLAN/blob/main/vlan.png)
 Kantor XYZ punya 3 departemen:
 
 - HR (VLAN 10)
