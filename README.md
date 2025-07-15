@@ -41,11 +41,11 @@ VLAN bekerja dengan memberi “label” pada data yang lewat, dikenal sebagai VL
 <img width="1536" height="1024" alt="vlan" src="https://github.com/user-attachments/assets/48c715c8-5061-4f7b-bd7f-273f0bc83322" />
 
 Kantor XYZ punya 3 departemen:
-- HR (VLAN 10)
-- Keuangan (VLAN 20)
+- Admin (VLAN 10)
+- Marketing (VLAN 20)
 - IT (VLAN 30)
 
-Dengan VLAN, HR nggak bisa lihat data Keuangan. IT bisa atur semuanya dari VLAN Management (VLAN 99). Jaringan jadi lebih rapi, aman, dan cepat.
+Dengan VLAN, Admin nggak bisa lihat data Marketing. IT bisa atur semuanya dari VLAN Management (VLAN 99). Jaringan jadi lebih rapi, aman, dan cepat.
 
 ## Contoh Konfigurasi VLAN Cisco (Level Dasar)
 
