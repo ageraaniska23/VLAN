@@ -63,10 +63,10 @@ Switch(config-if)# switchport access vlan 10
 ```
 
 ##  Keunggulan VLAN: Kenapa Banyak Digunakan
-- Keamanan Lebih Terjaga – Setiap divisi punya ‘ruang’ sendiri
-- Kinerja Jaringan Lebih Cepat – Traffic dibatasi dalam VLAN masing-masing
-- Mudah dalam Skalabilitas – Bisa nambah perangkat tanpa ganggu jaringan lain
-- Pemeliharaan Jaringan Lebih Simpel – Gampang deteksi error per-VLAN
+- Keamanan Lebih Terjaga : Setiap divisi punya ‘ruang’ sendiri
+- Kinerja Jaringan Lebih Cepat : Traffic dibatasi dalam VLAN masing-masing
+- Mudah dalam Skalabilitas : Bisa nambah perangkat tanpa ganggu jaringan lain
+- Pemeliharaan Jaringan Lebih Simpel : Gampang deteksi error per-VLAN
 
 ## Tantangan Menggunakan VLAN
  - Butuh perangkat switch yang support VLAN
