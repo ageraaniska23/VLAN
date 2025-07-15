@@ -1,6 +1,6 @@
 # VLAN: Rahasia di Balik Jaringan Modern yang Efisien dan Aman
 
-Pernah dengar istilah VLAN? Teknologi ini diam-diam jadi pahlawan di balik stabilnya jaringan kantor, kampus, hingga data center. Yuk, kenalan dengan VLAN — konsep penting yang wajib dikuasai para network engineer!
+Pernah dengar istilah VLAN? Teknologi ini diam-diam jadi pahlawan di balik stabilnya jaringan kantor, kampus, hingga data center. Yuk, kenalan dengan VLAN konsep penting yang wajib dikuasai para network engineer!
 
 
 ## Apa Itu VLAN?
@@ -9,14 +9,14 @@ VLAN adalah jalur virtual yang memisahkan kendaraan (data) berdasarkan tujuan me
 
 ## Kenapa VLAN Penting Banget?
 
-- Tanpa VLAN : Semua perangkat bisa “ngobrol” satu sama lain
-- Dengan VLAN : Hanya perangkat dalam grup yang sama yang bisa saling ngobrol
+- Tanpa VLAN = Semua perangkat bisa “ngobrol” satu sama lain
+- Dengan VLAN = Hanya perangkat dalam grup yang sama yang bisa saling ngobrol
 
 ##### Manfaat utama VLAN
 - Mengurangi traffic broadcast yang tidak perlu
 - ningkatkan keamanan (isolasi antar divisi)
 - Mudah dalam manajemen jaringan besar
-- Fleksibel, bisa atur jaringan tanpa ganti kabel
+- Fleksibel : bisa atur jaringan tanpa ganti kabel
 
 
 
@@ -63,7 +63,7 @@ Switch(config-if)# switchport access vlan 10
 ```
 
 ##  Keunggulan VLAN: Kenapa Banyak Digunakan
-- Keamanan Lebih Terjaga : Setiap divisi punya _ruang_ sendiri
+- Keamanan Lebih Terjaga : Setiap divisi punya ruang sendiri
 - Kinerja Jaringan Lebih Cepat : Traffic dibatasi dalam VLAN masing-masing
 - Mudah dalam Skalabilitas : Bisa nambah perangkat tanpa ganggu jaringan lain
 - Pemeliharaan Jaringan Lebih Simpel : Gampang deteksi error per-VLAN
