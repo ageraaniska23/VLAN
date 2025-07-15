@@ -9,7 +9,7 @@ VLAN adalah jalur virtual yang memisahkan kendaraan (data) berdasarkan tujuan me
 
 ## Kenapa VLAN Penting Banget?
 
-- Tanpa VLAN = Semua perangkat bisa “ngobrol” satu sama lain
+- Tanpa VLAN = Semua perangkat bisa ngobrol satu sama lain
 - Dengan VLAN = Hanya perangkat dalam grup yang sama yang bisa saling ngobrol
 
 ##### Manfaat utama VLAN
