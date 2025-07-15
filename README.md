@@ -4,19 +4,19 @@ Pernah dengar istilah VLAN? Teknologi ini diam-diam jadi pahlawan di balik stabi
 
 
 ## Apa Itu VLAN?
-Bayangkan sebuah jalan tol besar (switch jaringan). Tanpa aturan jalur, semua kendaraan bebas melaju di mana saja — chaos!
-VLAN adalah jalur virtual yang memisahkan kendaraan (data) berdasarkan tujuan mereka. Jadi meskipun mereka lewat jalan yang sama, masing-masing tetap berada di jalur yang berbeda. Secara teknis, VLAN adalah metode untuk membagi jaringan secara logis — memisahkan perangkat ke dalam kelompok tertentu, walaupun secara fisik terhubung ke switch yang sama.
+Bayangkan sebuah jalan tol besar (switch jaringan). Tanpa aturan jalur, semua kendaraan bebas melaju di mana saja, chaos!
+VLAN adalah jalur virtual yang memisahkan kendaraan (data) berdasarkan tujuan mereka. Jadi meskipun mereka lewat jalan yang sama, masing-masing tetap berada di jalur yang berbeda. Secara teknis, VLAN adalah metode untuk membagi jaringan secara logis, memisahkan perangkat ke dalam kelompok tertentu, walaupun secara fisik terhubung ke switch yang sama.
 
 ## Kenapa VLAN Penting Banget?
 
-- Tanpa VLAN = Semua perangkat bisa “ngobrol” satu sama lain
-- Dengan VLAN = Hanya perangkat dalam grup yang sama yang bisa saling ngobrol
+- Tanpa VLAN : Semua perangkat bisa “ngobrol” satu sama lain
+- Dengan VLAN : Hanya perangkat dalam grup yang sama yang bisa saling ngobrol
 
 ##### Manfaat utama VLAN
 - Mengurangi traffic broadcast yang tidak perlu
 - ningkatkan keamanan (isolasi antar divisi)
 - Mudah dalam manajemen jaringan besar
-- Fleksibel — bisa atur jaringan tanpa ganti kabel
+- Fleksibel, bisa atur jaringan tanpa ganti kabel
 
 
 
@@ -31,7 +31,7 @@ VLAN adalah jalur virtual yang memisahkan kendaraan (data) berdasarkan tujuan me
 
 
 ##  Cara Kerja VLAN Secara Ringan
-VLAN bekerja dengan memberi “label” pada data yang lewat, dikenal sebagai VLAN tagging (IEEE 802.1Q). Switch membaca label ini dan memastikan data hanya dikirim ke perangkat dalam VLAN yang sama.
+VLAN bekerja dengan memberi **label** pada data yang lewat, dikenal sebagai VLAN tagging (IEEE 802.1Q). Switch membaca label ini dan memastikan data hanya dikirim ke perangkat dalam VLAN yang sama.
 -  Access port = hanya satu VLAN
 - Trunk port = bisa bawa banyak VLAN (untuk antar-switch/router)
 
@@ -63,7 +63,7 @@ Switch(config-if)# switchport access vlan 10
 ```
 
 ##  Keunggulan VLAN: Kenapa Banyak Digunakan
-- Keamanan Lebih Terjaga : Setiap divisi punya ‘ruang’ sendiri
+- Keamanan Lebih Terjaga : Setiap divisi punya _ruang_ sendiri
 - Kinerja Jaringan Lebih Cepat : Traffic dibatasi dalam VLAN masing-masing
 - Mudah dalam Skalabilitas : Bisa nambah perangkat tanpa ganggu jaringan lain
 - Pemeliharaan Jaringan Lebih Simpel : Gampang deteksi error per-VLAN
