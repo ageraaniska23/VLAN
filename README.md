@@ -1,6 +1,3 @@
-<img width="1536" height="1024" alt="vlan" src="https://github.com/user-attachments/assets/4cd3a89c-7431-48de-b50b-4e865293bfc2" /><img width="1536" height="1024" alt="vlan" src="https://github.com/user-attachments/assets/85e75c79-54fb-454e-b1a0-4bbe883f54a5" />
-
-
 # VLAN: Rahasia di Balik Jaringan Modern yang Efisien dan Aman
 
 Pernah dengar istilah VLAN? Teknologi ini diam-diam jadi pahlawan di balik stabilnya jaringan kantor, kampus, hingga data center. Yuk, kenalan dengan VLAN — konsep penting yang wajib dikuasai para network engineer!
@@ -41,12 +38,9 @@ VLAN bekerja dengan memberi “label” pada data yang lewat, dikenal sebagai VL
 >Think of it like: Access port = jalur khusus. Trunk port = tol besar antar kota.
 
 ## Studi Kasus Mini: Kantor XYZ
-![Topologi VLAN]()
 <img width="1536" height="1024" alt="vlan" src="https://github.com/user-attachments/assets/48c715c8-5061-4f7b-bd7f-273f0bc83322" />
 
 Kantor XYZ punya 3 departemen:
-
-
 - HR (VLAN 10)
 - Keuangan (VLAN 20)
 - IT (VLAN 30)
